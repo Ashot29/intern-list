@@ -1,0 +1,17 @@
+.table-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.form {
+    display: none;
+    flex-direction: column;
+}
+
+.table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    color: red;
+}
